@@ -1,6 +1,6 @@
 # 2048 Game (Frontend + Backend)
 
-This project is a full implementation of the classic 2048 game, with a **React** frontend and a **Node.js/Express** backend using **Socket.IO** for real-time synchronization.
+This project is a full implementation of the classic 2048 game, featuring a React frontend and a Node.js/Express backend with Socket.IO for real-time synchronization.
 
 ## Features
 
@@ -79,7 +79,7 @@ The frontend will run on `http://localhost:3000`.
 
 ## Contributing
 
-Feel free to open issues, fork the repo, and create pull requests to contribute to this project.
+Feel free to open issues, fork the repository, and create pull requests to contribute to this project.
 
 ## License
 
