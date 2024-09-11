@@ -78,3 +78,25 @@
 .cell.cell-2048 {
   background-color: #edc22e;
 }
+
+button {
+  display: block;
+  margin-top: 20px;
+  padding: 10px 20px;
+  font-size: 18px;
+  color: #fff;
+  background-color: #467146;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  margin: 20px auto;
+}
+
+button:hover {
+  background-color: #4cae4c;
+}
+
+button:active {
+  background-color: #449d44;
+}
