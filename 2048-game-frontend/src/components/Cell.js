@@ -1,4 +1,3 @@
-//src/components/Cell.js
 import React from "react";
 
 const Cell = ({ value }) => {

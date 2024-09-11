@@ -1,4 +1,3 @@
-//src/components/Game.js
 import React from 'react';
 import Grid from './Grid';
 
